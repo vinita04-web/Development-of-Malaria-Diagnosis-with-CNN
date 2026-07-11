@@ -155,6 +155,9 @@ The project includes:
 - Sample Predictions
 - Streamlit Application Output
 
+Note:
+The file X_test.npy (~236 MB) is not included in this GitHub repository because it exceeds GitHub's file size limit.
+It is provided separately in the project submission ZIP for evaluation.
 ---
 
 ## 👩‍💻 Author
